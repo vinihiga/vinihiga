@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Vini! 👋
+
+I work as Mobile Software Engineer for a multinational company and I have a bachelor on Software Engineering (PUC-Campinas), also I'm an alumni of the Apple program called Developer Academy (BEPiD).
+
+On my free time, I like to create some Proof of Concepts (PoCs) for iOS and videogames for any type of platforms (PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
+
+Currently, I'm working on a simple 2D Game Engine made in C++, which is also available here! The Game Engine is called SEE!
+
+### 📫 How to reach me:
+- @apenasumdev at Instagram
+- "ApenasUmDev" at Twitch.TV
 
 <!--
 **vinnyhiga137/vinnyhiga137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
