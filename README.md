@@ -1,8 +1,13 @@
 ### Hi there, I'm Vini! 👋
 
-I work as Mobile Software Engineer for a multinational company and I have a bachelor in Software Engineering (PUC-Campinas), also alumni of the Apple program called Developer Academy (as well known as BEPiD).
+I work as Mobile Software Engineer for a multinational company and I'm an alumni of the Apple - Developer Academy (as well known as BEPiD in Brazil).
 
-On my free time, I like to create some Proof of Concepts (PoCs) for iOS and videogames for any type of platforms (PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
+On my spare time, I like to create some Proof of Concepts (PoCs) for iOS and videogames for any type of platforms (PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
+
+### 🌱 I'm currently working on ...
+- iOS Apps for a giant bank in Latin America.
+- iOS & Android apps for an NGO in my city (@projetogavepucc).
+- Secret personal project with my friends :-)
 
 ### 📫 How to reach me:
 - @apenasumdev at Instagram
