@@ -11,7 +11,6 @@ On my spare time, I like to create some Proof of Concepts (PoCs) for iOS and vid
 
 ### 📫 How to reach me:
 - @apenasumdev at Instagram
-- "ApenasUmDev" at Twitch.TV
 
 <!--
 **vinnyhiga137/vinnyhiga137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
