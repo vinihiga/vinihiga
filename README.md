@@ -1,6 +1,6 @@
 ### Hi there, I'm Vini! 👋
 
-I work as Mobile Software Engineer for a multinational company and I'm an alumni of the Apple - Developer Academy (as well known as BEPiD in Brazil).
+I work as Mobile Software Engineer for a multinational company and I'm an alumni from Apple - Developer Academy (as well known as BEPiD in Brazil).
 
 On my spare time, I like to create some Proof of Concepts (PoCs) for iOS and videogames for any type of platforms (PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
 
