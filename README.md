@@ -2,7 +2,7 @@
 
 I work as Mobile Software Engineer for a multinational company and I'm an alumni from Apple - Developer Academy (as well known as BEPiD in Brazil).
 
-On my spare time, I like to create some Proof of Concepts (PoCs) for iOS and videogames for any type of platforms (PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
+On my spare time, I like to create some Proof of Concepts (PoCs) for iOS & Android, also videogames (e.g. PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
 
 ### 🌱 I'm currently working on ...
 - iOS Apps for a giant bank in Latin America.
