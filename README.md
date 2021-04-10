@@ -1,11 +1,14 @@
 ### Hi there, I'm Vini! 👋
 
-I work as Mobile Software Engineer for a multinational company and I'm an alumni from Apple - Developer Academy (as well known as BEPiD in Brazil).
+I work as Mobile Software Engineer for a multinational company (bank sector), also alumni from Apple - Developer Academy course (as well known as BEPiD in Brazil) and from Pontífica Universidade Católica de Campinas (major in Software Engineering).
 
-On my spare time, I like to create some Proof of Concepts (PoCs) for iOS & Android, also videogames (e.g. PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
+I'm a graduate student at @Mackenzie - São Paulo and I'm focusing on the Artificial Intelligence area (specifically Deep Learning and Machine Learning).
+
+On my spare time, I like to create some Proof of Concepts (PoCs) for iOS & Android, robotics stuff, also videogames (e.g. PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
 
 ### 🌱 I'm currently working on ...
 - iOS Apps for a giant bank in Latin America.
+- Studying Deep Learning and Machine Learning on my graduation (@Mackenzie).
 - iOS & Android apps for an NGO in my city (@projetogavepucc).
 - Secret personal project with my friends :-)
 
