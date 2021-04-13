@@ -2,7 +2,7 @@
 
 I work as Mobile Software Engineer for a multinational company (bank sector), also alumni from Apple - Developer Academy course (as well known as BEPiD in Brazil) and from Pontífica Universidade Católica de Campinas (major in Software Engineering).
 
-I'm a graduate student at @Mackenzie - São Paulo and I'm focusing on the Artificial Intelligence area (specifically Deep Learning and Machine Learning).
+I'm a post-graduate student at @Mackenzie - São Paulo and I'm focusing on the Artificial Intelligence area (specifically Deep Learning and Machine Learning).
 
 On my spare time, I like to create some Proof of Concepts (PoCs) for iOS & Android, robotics stuff, also videogames (e.g. PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
 
