@@ -2,7 +2,7 @@
 
 I work as iOS Software Engineer for @Everis and @Itau, also I'm an alumni from Apple - Developer Academy course and from Pontífica Universidade Católica de Campinas (major in Software Engineering).
 
-I'm a post-graduate student at @Mackenzie and I'm focusing on the Artificial Intelligence area (specifically Deep Learning and Machine Learning).
+I'm a graduate student at @Mackenzie and I'm focusing on the Artificial Intelligence area (specifically Deep Learning and Machine Learning).
 
 On my spare time, I like to create some Proof of Concepts (PoCs) for iOS & Android, robotics stuff, also videogames (e.g. PC, Mac, iOS, Android, Playstation, Nintendo, Xbox...). 
 
