@@ -1,11 +1,10 @@
 ### Hi there, I'm Vini! 👋
 
-I work as Mid level iOS Software Engineer for @CIANDT. I have integrated the Open Banking's system for @Itau. 
-
-On my spare time, I like to create PoCs (Proof of Concept) based computer science theory.
+I work as Senior iOS Software Engineer @ CIANDT and as Master of Computer Science Student @ UNICAMP.
 
 ### 🌱 I'm currently working on ...
 - iOS Apps for @CIANDT.
+- My Masters Research with Machine Learning.
 
 ### 📫 How to reach me:
 - "Vinicius Hiroshi Higa" on LinkedIn
