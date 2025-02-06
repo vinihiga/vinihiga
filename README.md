@@ -1,12 +1,10 @@
-### Hi there, I'm Vini! 👋
+### Hi there, I'm Vini! 👋  
 
-I'm a Sr. Software Engineer with a bachelor's degree in Computer Science and specialization in Data Science & Machine Learning at PUC-Campinas. Also, I took some Master's classes in Computer Science at UNICAMP where I researched and studied Recommendation Algorithms using Deep Learning.
+I'm a Sr. Software Engineer with a Bachelor's degree in Computer Science and a specialization in Data Science & Machine Learning from PUC-Campinas. I also pursued Master's studies in Computer Science at UNICAMP, focusing on Graphs Theory, Computer Graphics, Machine Learning, and my research was about Recommendations Algorithms using Deep Learning.  
 
-I've worked on projects across various sectors, including Healthcare, E-Commerce, and Banking.
+With experience in **Healthcare, E-Commerce, and Banking**, I've worked on diverse projects, solving complex problems with scalable and efficient solutions.  
 
-I am the typical Nerd that likes Math and Algorithms. So... This is my space where I share new ideas and recent studies from classes or book topics.
-
-Feel free to ask any questions.
+I have a deep passion for **Mathematics, Algorithms, and System Design**. This space is where I share ideas, insights from my studies, and experiments with new technologies.  
 
 ### 📫 How to reach out to me 📫:
 - "Vinicius Hiroshi Higa" at LinkedIn
