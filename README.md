@@ -1,6 +1,6 @@
 ### Hi there, I'm Vini! 👋  
 
-I'm a Sr. iOS Software Engineer with a Bachelor's degree in Software Engineering. I also pursued Master's studies in Computer Science at UNICAMP, focusing on Graphs Theory, Computer Graphics, Machine Learning, and my research was about Recommendations Algorithms using Deep Learning.  
+I'm a Sr. iOS Software Engineer with a Bachelor's degree in Software Engineering. Has Apple Developer Academy certification (2019-2020).
 
 With experience in **Healthcare, E-Commerce, and Banking**, I've worked on diverse projects, solving complex problems with scalable and efficient solutions.
 
